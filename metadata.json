@@ -1,0 +1,8 @@
+{
+  "name": "E2E Practice Shop",
+  "description": "A simple Angular application built for Playwright E2E testing practice, featuring authentication, product management, and a cart checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
