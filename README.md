@@ -29,6 +29,7 @@ All data is mocked and stored client-side (in memory), so you don't need to set 
    - **Password:** `123456`
 
 # LINUX FEDORA WORKSTATION PLAYWRIGHT SETUP
+```bash
 # Step 1: Install required container tools on the host system (Fedora Terminal)
 sudo dnf install -y distrobox podman
 
@@ -43,7 +44,7 @@ sudo apt update && sudo apt install -y nodejs npm && cd ~/Projects/E2E-Practice-
 
 # Step 5: Execute the E2E test suite
 npx playwright test
-
+```
 ---
 
 # E2E Pratik Dükkanı (Playwright Öğrenme Projesi)
